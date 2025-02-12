@@ -8,7 +8,7 @@ You can read more about the [documentation here](https://www.creative-tim.com/le
 
 ## HELPFUL LINKS
 
-- View [Github Repository](https://github.com/lukaskelley/DOODCAT-FE)
+- View [Github Repository](https://github.com/geekydev0125/stakingdapp-doodcats-eth)
 
 ## Terminal Commands
 
